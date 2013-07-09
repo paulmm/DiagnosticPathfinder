@@ -7,4 +7,4 @@ The intent of Diagnostic Pathfinder software is to help students learn a process
 
 Diagnostic Pathfinder (dP) is still used around the world at top Veterinary Schools. 
 
-<a href=”http://www.thinkspace.org/”>ThinkSpace</a> is a fork of dP that will be a web-based, extrapolated version for other disciplines. 
+[ThinkSpace](http://www.thinkspace.com) is a fork of dP that will be a web-based, extrapolated version for other disciplines. 
