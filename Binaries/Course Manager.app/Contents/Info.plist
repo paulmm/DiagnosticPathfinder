@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="0.9">
+<dict>
+	<key>CFBundleName</key>
+	<string>CourseManager</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.birg.coursemanager</string>
+	<key>CFBundleVersion</key>
+	<string>2.4.1</string>
+	<key>CFBundleAllowMixedLocalizations</key>
+	<string>true</string>
+	<key>CFBundleExecutable</key>
+	<string>JavaApplicationStub</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleIconFile</key>
+	<string>DP_Icon_Paulm.icns</string>
+	<key>Java</key>
+	<dict>
+		<key>WorkingDirectory</key>
+		<string>$APP_PACKAGE/Contents/Resources/Java</string>
+		<key>MainClass</key>
+		<string>coursemanager.CourseManager</string>
+		<key>JVMVersion</key>
+		<string>1.5+</string>
+		<key>ClassPath</key>
+			<array>
+			<string>$JAVAROOT/CourseManager.jar</string>
+			<string>$JAVAROOT/BIRG_API.jar</string>
+			<string>$JAVAROOT/CMHelpSet.jar</string>
+			<string>$JAVAROOT/jh.jar</string>
+			<string>$JAVAROOT/mysql-connector-java-5.0.4-bin.jar</string>
+			<string>$JAVAROOT/commons-codec-1.3.jar</string>
+			<string>$JAVAROOT/ButtonImages.jar</string>
+			</array>
+		<key>Properties</key>
+		<dict>
+			<key>database.server</key>
+			<string>jdbc:mysql://129.186.239.8:3306</string>
+			<key>apple.laf.useScreenMenuBar</key>
+			<string>true</string>
+			<key>database.log</key>
+			<string>true</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
