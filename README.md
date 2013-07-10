@@ -9,4 +9,9 @@ Diagnostic Pathfinder (dP) is still used around the world at top Veterinary Scho
 
 [ThinkSpace](http://www.thinkspace.org) is a fork of dP that will be a web-based, extrapolated version for other disciplines. 
 
+INSTALLATION
+
+Navigate to the Installers folder, choose your version (student || faculty), then pick your OS. I have tried to make the install process easy as possible. Email with any questions
+
+
 [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/c463d69c5e164cf3dd1ec7df679c8f5d "githalytics.com")](http://githalytics.com/paulmm/DiagnosticPathfinder)
