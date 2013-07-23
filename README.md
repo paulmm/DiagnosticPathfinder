@@ -1,4 +1,4 @@
-DiagnosticPathfinder
+Diagnostic Pathfinder
 ====================
 
 DESCRIPTION
