@@ -17,6 +17,7 @@ Diagnostic Pathfinder (dP) is used around the world at top Veterinary Schools.
 <div id="menu">
 <p class="rtecenter"><a href="https://github.com/paulmm/DiagnosticPathfinder/blob/master/Installers/Faculty%20Version/Mac%2010.7%2B/Diagnostic%20Pathfinder%20Faculty%20Install.dmg"><img src="http://dpapp.public.iastate.edu//pathfinder/DPmacInstall_lion.png" /></a></p>
 <p>&nbsp;</p>
+(If you are having issues with 10.8 - please see the [Issues section](https://github.com/paulmm/DiagnosticPathfinder/issues/1)
 <p class="rtecenter"><a href="https://github.com/paulmm/DiagnosticPathfinder/blob/master/Installers/Faculty%20Version/Windows/DPFacultyInstall.msi"><img src="http://dpapp.public.iastate.edu/pathfinder/DPwinInstall.png" /></a></p>
 <p>&nbsp;</p>
 </div>
