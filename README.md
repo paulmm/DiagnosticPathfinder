@@ -13,13 +13,11 @@ Diagnostic Pathfinder (dP) is used around the world at top Veterinary Schools.
 
 
 <p>&nbsp;</p>
-<div id="menu">
-<p class="rtecenter"><a href="https://github.com/paulmm/DiagnosticPathfinder/blob/master/Installers/Faculty%20Version/Mac%2010.7%2B/Diagnostic%20Pathfinder%20Faculty%20Install.dmg"><img src="http://dpapp.public.iastate.edu/pathfinder/DPmacInstall_lion.png" /></a></p>
+<p class="rtecenter"><a href="http://dpapp.public.iastate.edu/pathfinder/OSX10.7/Diagnostic%20Pathfinder%20Faculty%20Install.dmg"><img src="http://dpapp.public.iastate.edu/pathfinder/DPmacInstall_lion.png" /></a></p>
 If you are having issues with 10.8 - please see the Issues section (https://github.com/paulmm/DiagnosticPathfinder/issues/1)
 <p>&nbsp;</p>
-<p class="rtecenter"><a href="https://github.com/paulmm/DiagnosticPathfinder/blob/master/Installers/Faculty%20Version/Windows/DPFacultyInstall.msi"><img src="http://dpapp.public.iastate.edu/pathfinder/DPwinInstall.png" /></a></p>
+<p class="rtecenter"><a href="http://dpapp.public.iastate.edu/pathfinder/faculty/DPFacultyInstall.msi"><img src="http://dpapp.public.iastate.edu/pathfinder/DPwinInstall.png" /></a></p>
 <p>&nbsp;</p>
-</div>
 
 
 [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/c463d69c5e164cf3dd1ec7df679c8f5d "githalytics.com")](http://githalytics.com/paulmm/DiagnosticPathfinder)
