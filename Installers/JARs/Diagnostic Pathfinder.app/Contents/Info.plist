@@ -7,7 +7,7 @@
 	<key>CFBundleIdentifier</key>
 	<string>org.birg.pathfinder</string>
 	<key>CFBundleVersion</key>
-	<string>4.9.0</string>
+	<string>10.0</string>
 	<key>CFBundleAllowMixedLocalizations</key>
 	<string>true</string>
 	<key>CFBundleExecutable</key>
@@ -29,28 +29,24 @@
 		<key>MainClass</key>
 		<string>pathfinder.DiagnosticPathfinder</string>
 		<key>JVMVersion</key>
-		<string>1.5+</string>
+		<string>1.6+</string>
 		<key>ClassPath</key>
 			<array>
-			<string>$JAVAROOT/Pathfinder.jar</string>
 			<string>$JAVAROOT/BIRG_API.jar</string>
+			<string>$JAVAROOT/ButtonImages.jar</string>
+			<string>$JAVAROOT/commons-codec-1.3.jar</string>
 			<string>$JAVAROOT/DPHelpSet.jar</string>
-			<string>$JAVAROOT/PrintPreview.jar</string>
 			<string>$JAVAROOT/jh.jar</string>
 			<string>$JAVAROOT/mysql-connector-java-5.0.4-bin.jar</string>
-			<string>$JAVAROOT/commons-codec-1.3.jar</string>
-			<string>$JAVAROOT/ButtonImages.jar</string>
+			<string>$JAVAROOT/Pathfinder.jar</string>
+			<string>$JAVAROOT/PrintPreview.jar</string>
 			</array>
 		<key>Properties</key>
 		<dict>
 			<key>email.port</key>
-			<string>1024</string>
-			<key>email.server</key>
-			<string>129.186.239.8</string>
+			<string>25</string>
 			<key>database.server</key>
 			<string>jdbc:mysql://129.186.239.8:3306</string>
-			<key>apple.laf.useScreenMenuBar</key>
-			<string>true</string>
 			<key>dp.errorlog</key>
 			<string>false</string>
 			<key>record.synonyms</key>
@@ -59,6 +55,8 @@
 			<string>false</string>
 			<key>database.log</key>
 			<string>true</string>
+			<key>Demail.server</key>
+			<string>129.186.140.5</string>
 		</dict>
 	</dict>
 </dict>

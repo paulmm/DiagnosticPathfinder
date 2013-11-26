@@ -3,11 +3,11 @@
 <plist version="0.9">
 <dict>
 	<key>CFBundleName</key>
-	<string>ReportGenerator</string>
+	<string>Report Generator</string>
 	<key>CFBundleIdentifier</key>
 	<string>org.birg.reportgen</string>
 	<key>CFBundleVersion</key>
-	<string>3.1</string>
+	<string>10.0</string>
 	<key>CFBundleAllowMixedLocalizations</key>
 	<string>true</string>
 	<key>CFBundleExecutable</key>
@@ -29,23 +29,21 @@
 		<key>MainClass</key>
 		<string>reportgen.ReportGenerator</string>
 		<key>JVMVersion</key>
-		<string>1.5+</string>
+		<string>1.6+</string>
 		<key>ClassPath</key>
 			<array>
-			<string>$JAVAROOT/ReportGen.jar</string>
 			<string>$JAVAROOT/BIRG_API.jar</string>
-			<string>$JAVAROOT/RGHelpSet.jar</string>
+			<string>$JAVAROOT/ButtonImages.jar</string>
+			<string>$JAVAROOT/commons-codec-1.3.jar</string>
 			<string>$JAVAROOT/jh.jar</string>
 			<string>$JAVAROOT/mysql-connector-java-5.0.4-bin.jar</string>
-			<string>$JAVAROOT/commons-codec-1.3.jar</string>
-			<string>$JAVAROOT/ButtonImages.jar</string>
+			<string>$JAVAROOT/ReportGen.jar</string>
+			<string>$JAVAROOT/RGHelpSet.jar</string>
 			</array>
 		<key>Properties</key>
 		<dict>
 			<key>database.server</key>
 			<string>jdbc:mysql://129.186.239.8:3306</string>
-			<key>apple.laf.useScreenMenuBar</key>
-			<string>true</string>
 			<key>database.log</key>
 			<string>true</string>
 		</dict>
